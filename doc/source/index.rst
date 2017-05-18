@@ -9,4 +9,5 @@ Contents:
    readme
    installation
    usage
+   python_api
    contributing
